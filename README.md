@@ -14,21 +14,19 @@
 
 <div>
 <p align="center">
-<<<<<<< HEAD
+  
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-js" alt="javascript" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-python" alt="python" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-html" alt="html" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-css" alt="css3" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/blob/main/icon-angularJs.png" alt="angular" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-mysql" alt="mysql" width="50" height="50"/>
-=======
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-js." alt="javascript" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-python." alt="python" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-html" alt="html" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-css." alt="css3" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-angular" alt="angular" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-mysql." alt="mysql" width="50" height="50"/>
->>>>>>> 3bfc154dfad90707ac8f8fb80a8ccfae1aa9f19c
 </div>
 
 <p>&nbsp;</p>
