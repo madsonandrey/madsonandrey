@@ -30,7 +30,7 @@
 ## ☎️ Contact Me:
 
 <p align="center">
-<a href = "madsonandrey22@gmail.com"><img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-gmail.png" alt='gmail' height='40'></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madsonandrey22@gmail.com)](mailto:madsonandrey22@gmail.com)
 <a href = https://www.linkedin.com/in/madson-andrey/><img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-linkedlin.png" alt='linkedlin' height='40'></a>
 <a href = https://www.instagram.com/andrey.madson/><img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-instagram.png" alt='instagram' height='40'></a>
 <a href = https://api.whatsapp.com/send?phone=5581999133657/><img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/whatsapp-logo-1.png" alt='whatsapp' height='40'></a>
