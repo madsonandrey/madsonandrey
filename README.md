@@ -19,7 +19,7 @@
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-python" alt="python" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-html" alt="html" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-css" alt="css3" width="50" height="50"/> 
-<img src="https://github.com/madsonandrey/madsonandrey/blob/main/icon-angularJs.png" alt="angular" width="50" height="50"/> 
+<img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-angularJs.png" alt="angular" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-mysql" alt="mysql" width="50" height="50"/>
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-js." alt="javascript" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/main/icon-python." alt="python" width="50" height="50"/> 
