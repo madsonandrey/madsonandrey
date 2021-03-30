@@ -4,7 +4,7 @@
 
 ## 📚 About me:
 
-- Currently studying CST in analysis and systems development at Universidade Tiradentes/PE feat Porto Digital
+- Currently studying CST in **analysis and systems development** at Universidade Tiradentes/PE feat Porto Digital (**last period**)
 - I'm looking to work in Web Development, as a Front-End Developer. I'm currently studying **HTML5**, **CSS3**, **JavaScript ES6** and **Angular 8**.
 - My **english** language is not so good... but I can read and interpret texts with a certain efficiency.  Ah, I am trying to improve! :smiley:
 
