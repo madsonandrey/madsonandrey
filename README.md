@@ -16,10 +16,9 @@
 <p align="center">
   
 
-<img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-python.png" alt="python" width="50" height="50"/> 
+
 <img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-html.png" alt="html" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-css.png" alt="css3" width="50" height="50"/> 
-<img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-angularJs.png" alt="angular" width="50" height="50"/> 
 <img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-mysql.png" alt="mysql" width="50" height="50"/>
 <img src="https://github.com/madsonandrey/madsonandrey/blob/main/Profile/icons/icon-javascript.png" alt="javascript" width="50" height="50"/> 
 
