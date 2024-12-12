@@ -4,8 +4,8 @@
 
 ## 📚 About me:
 
-- Currently studying CST in **analysis and systems development** at Universidade Tiradentes/PE feat Porto Digital (**last period**)
-- I'm currently dedicating myself to evolve as Web Developer. I'm currently studying **HTML5**, **CSS3**, **JavaScript ES6** and **Java Web**.
+- Currently studying specialization in Java at the Universidade Tecnológica Federal do Paraná (UTFPR) (**first period**)
+- I'm currently dedicating myself to evolve as Java Developer.
 - My **english** language is not so good... but I can read and interpret texts with a certain efficiency.
 
 <p>&nbsp;</p>
